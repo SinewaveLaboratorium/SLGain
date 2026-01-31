@@ -1,4 +1,4 @@
-# SLGain | VST Audio Plugin (DSP Logic)
+# SLGain VST Audio Plugin
 
 This repository contains the core logic and architectural source code for **SLGain**, a gain-staging VST plugin.
 
