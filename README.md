@@ -2,8 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-Open%20Consultation%20Only-red) ![Platform](https://img.shields.io/badge/platform-Windows-green) ![Language](https://img.shields.io/badge/language-C++-orange)
 
-This repository contains the core logic and architectural source code for **SLGain**, a gain-staging VST plugin.
-
 > ⚠️ **Licensing Notice:** This project is **Source Available** for professional evaluation and portfolio review purposes only. It is not an Open Source project. Graphical assets, compiled binaries, and third-party framework dependencies have been excluded from this repository. Please refer to the `LICENSE` file for full terms.
 
 ## 🛠 Project Overview
