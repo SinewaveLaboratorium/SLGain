@@ -10,6 +10,8 @@ This repository contains the core logic and architectural source code for **SLGa
 
 **SLGain** is a utility plugin designed to provide precise control over signal levels. Unlike standard gain plugins, it allows users to define custom **Minimum** and **Maximum** gain ranges, making it an essential tool for automation and gain-staging within a DAW (Digital Audio Workstation).
 
+![](https://sinewavelab.com/wp-content/uploads/2023/12/SLGAIN_VST.webp)
+
 - **Commercial Product:** [sinewavelab.com/products/slgain-free-gain-vst/](https://sinewavelab.com/products/slgain-free-gain-vst/)
 - **Framework:** Built using the **WDL-OL (IPlug)** framework.
 - **Language:** C++
